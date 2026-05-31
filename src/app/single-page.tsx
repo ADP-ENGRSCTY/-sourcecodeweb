@@ -10,7 +10,7 @@ import { TEAM } from '@/data/team';
 import AnimatedGradientBackground from '@/components/ui/animated-gradient-background';
 import { motion } from 'framer-motion';
 import { Wrench, Target, Eye, Users, Calendar, Lightbulb, Award, Building2, Mail, Instagram, User, Linkedin, Trophy, Star, BookOpen, Check } from 'lucide-react';
-import Lenis from '@studio-freight/lenis';
+import Lenis from 'lenis';
 
 export default function SinglePage() {
   useEffect(() => {
