@@ -18,7 +18,7 @@ import AnimatedGradientBackground from '@/components/ui/animated-gradient-backgr
 import { SparklesCore } from '@/components/ui/sparkles';
 import { motion } from 'framer-motion';
 import { Wrench, Target, Eye, Users, Calendar, Lightbulb, Award, Building2, Mail, Instagram, Linkedin, Trophy, Star, BookOpen, Check } from 'lucide-react';
-import Lenis from '@studio-freight/lenis';
+import Lenis from 'lenis';
 import Image from 'next/image';
 
 export default function SinglePage() {
