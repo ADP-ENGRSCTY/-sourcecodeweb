@@ -81,7 +81,7 @@ export default function HomePage() {
       title: 'Arduino IoT Workshop',
       date: 'April 4, 2025',
       description: 'Hands-on workshop on Arduino programming and IoT basics. Collaborated with Taylor\'s Robotics Club, sponsored by Cytron Technologies. Limited to 36 participants with refreshments provided.',
-      poster: '/events/posters/[Poster_A4] Arduino Workshop.png',
+      poster: '/events/posters/[Poster_A4] Arduino Workshop .png',
       images: ['/events/20250404_164436.jpg', '/events/IMG_20250404_170100.jpg']
     },
     {
