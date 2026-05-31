@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -29,6 +30,12 @@ export const metadata: Metadata = {
     title: "ADP Engineering Society",
     description: "Building, learning, and leading — together",
   },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#BB3A1A",
+  width: "device-width",
+  initialScale: 1,
 };
 
 export default function RootLayout({
