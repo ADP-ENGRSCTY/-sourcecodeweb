@@ -21,7 +21,7 @@ import { Wrench, Target, Eye, Users, Calendar, Lightbulb, Award, Building2, Mail
 import Lenis from 'lenis';
 import Image from 'next/image';
 
-export default function SinglePage() {
+export default function HomePage() {
   useEffect(() => {
     const lenis = new Lenis({
       duration: 1.2,

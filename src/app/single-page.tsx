@@ -12,7 +12,7 @@ import { motion } from 'framer-motion';
 import { Wrench, Target, Eye, Users, Calendar, Lightbulb, Award, Building2, Mail, Instagram, User, Linkedin, Trophy, Star, BookOpen, Check } from 'lucide-react';
 import Lenis from 'lenis';
 
-export default function SinglePage() {
+export default function SinglePageArchive() {
   useEffect(() => {
     const lenis = new Lenis({
       duration: 1.2,
